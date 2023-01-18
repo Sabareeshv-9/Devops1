@@ -1,1 +1,2 @@
 Hello world from Amrita
+New line added by dev1
